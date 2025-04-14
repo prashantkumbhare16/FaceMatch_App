@@ -6,7 +6,6 @@ certifi==2025.1.31
 charset-normalizer==3.4.1
 click==8.1.8
 colorama==0.4.6
-dlib @ file:///C:/Users/vicky/OneDrive/Desktop/django/Model/dlib-19.24.1-cp311-cp311-win_amd64.whl
 dlib==19.24.1
 face-recognition==1.3.0
 face-recognition-models==0.3.0
